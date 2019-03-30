@@ -1,3 +1,14 @@
 # 
 .config/*
 config.h
+*.o
+Makefile
+c2man
+config.sh
+ctype_ex.inc
+example.inc
+fixexamp.sed
+flatten.sed
+lex.yy.c
+mkdep
+y.tab.c
