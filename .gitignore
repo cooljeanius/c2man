@@ -12,3 +12,6 @@ flatten.sed
 lex.yy.c
 mkdep
 y.tab.c
+*.xcuserstate
+*.xcuserdatad
+*/xcuserdata/*
